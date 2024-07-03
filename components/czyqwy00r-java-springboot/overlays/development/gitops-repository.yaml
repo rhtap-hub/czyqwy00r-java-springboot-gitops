@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: czyqwy00r-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-hub/czyqwy00r-java-springboot-gitops
